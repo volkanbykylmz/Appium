@@ -119,6 +119,13 @@
     "iosType": ""
   },
   {
+  "key": "locationtwo",
+  "androidValue": "com.android.packageinstaller:id/permission_allow_button",
+  "androidType": "id",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
     "key": "PiyasaBilgileri",
     "androidValue": "(//*[@class='android.view.View'])[29]",
     "androidType": "xpath",
