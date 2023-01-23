@@ -1,0 +1,358 @@
+[
+  {
+  "key": "OnlyThisTimeButonu",
+  "androidValue": "com.android.permissioncontroller:id/permission_allow_one_time_button",
+  "androidType": "id",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
+  "key": "AllowButonu",
+  "androidValue": "com.android.permissioncontroller:id/permission_allow_button",
+  "androidType": "id",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
+  "key": "TurkceButonu",
+  "androidValue": "//*[@text='Türkçe']",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
+  "key": "SecVeKesfetmeyeBaslaButonu",
+  "androidValue": "//*[@text='Seç ve Keşfetmeye Başla']",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
+  "key": "XButonu",
+  "androidValue": "//android.widget.ImageView[@content-desc=\"Kapatma butonu\"]",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
+    "key": "ATMdenParaCek/Yatir",
+    "androidValue": "(//*[@class='android.view.View'])[17]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "GeriButonu",
+    "androidValue": "//android.widget.ImageView[@content-desc='Geri Butonu']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "KarekodOde/ParaGonder",
+    "androidValue": "(//*[@class='android.view.View'])[18]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "FinansalAraclar",
+    "androidValue": "(//*[@class='android.view.View'])[19]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "DovizCevirici",
+    "androidValue": "(//*[@class='android.view.View'])[5]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "TurkLirasi",
+    "androidValue": "(//*[@class='android.view.View'])[4]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "NorvecNoku",
+    "androidValue": "(//*[@class='android.view.View'])[9]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "FonTutariHesaplama",
+    "androidValue": "(//*[@class='android.view.View'])[9]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "FonTutariHesaplamaSatis",
+    "androidValue": "//*[@text='Satış']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "KrediHesaplama",
+    "androidValue": "(//*[@class='android.view.View'])[17]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "AcikHesapFaizHesaplama",
+    "androidValue": "(//*[@class='android.view.View'])[21]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "MevduatGetirisiHesaplama",
+    "androidValue": "(//*[@class='android.view.View'])[25]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "PiyasaBilgileri",
+    "androidValue": "(//*[@class='android.view.View'])[29]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "DolarPiyasa",
+    "androidValue": "(//*[@class='android.view.View'])[8]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RepoGetirisi",
+    "androidValue": "(//*[@class='android.view.View'])[33]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "VergiTakvimi",
+    "androidValue": "(//*[@class='android.view.View'])[37]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "DigerIslemler",
+    "androidValue": "(//*[@class='android.view.View'])[20]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "GenelMudurluk",
+    "androidValue": "//*[@text='Genel Müdürlük']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "key": "GirisButonu",
+    "androidValue": "//android.view.View[@content-desc=\"Giriş,Butonu\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "MusteriNumarasiTiklama",
+    "androidValue": "(//*[@class='android.widget.TextView'])[3]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "MusteriNumarasi",
+    "androidValue": "(//*[@class='android.widget.EditText'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "ParolaTiklama",
+    "androidValue": "//*[@text='Dijital Parola']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "Parola",
+    "androidValue": "(//*[@class='android.widget.EditText'])[2]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "SmsButonu",
+    "androidValue": "//*[@class='android.widget.EditText']",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+  },
+  {
+    "key": "MenuButonu",
+    "androidValue": "//android.widget.ImageButton[@content-desc=\"Menü\"]",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+  },
+  {
+    "key": "ParaTransferleri",
+    "androidValue": "(//*[@resource-id='com.tmobtech.halkbank.alpha:id/item_left_menu_tx'])[5]",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+  },
+  {
+    "key": "YeniTransfer",
+    "androidValue": "(//*[@resource-id='com.tmobtech.halkbank.alpha:id/item_mutable_simple_title_tx'])[3]",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+  },
+  {
+    "key": "HavaleTabi",
+    "androidValue": "//*[@text='Havale']",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+
+  },
+  {
+    "key": "AliciSube",
+    "androidValue": "//*[@text='Alıcı Şube']",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+  },
+
+  {
+    "key": "AliciSubeAramaButonu",
+    "androidValue": "com.tmobtech.halkbank.alpha:id/search_button",
+    "androidType": "id",
+    "iosValue":"",
+    "iosType": ""
+  },
+
+  {
+    "key": "AliciSubeAramaBari",
+    "androidValue": "com.tmobtech.halkbank.alpha:id/search_src_text",
+    "androidType": "id",
+    "iosValue":"",
+    "iosType": ""
+  },
+
+  {
+    "key": "SubeSecimi",
+    "androidValue": "com.tmobtech.halkbank.alpha:id/row_view_base_tv_label",
+    "androidType": "id",
+    "iosValue":"",
+    "iosType": ""
+  },
+  {
+    "key": "AliciHesap",
+    "androidValue": "(//*[@resource-id='com.tmobtech.halkbank.alpha:id/fragmentWireAccountNo_edReceiverAccountValue'])[2]",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+  },
+  {
+    "key": "TutarSahasi",
+    "androidValue": "com.tmobtech.halkbank.alpha:id/layoutAmountEdittext_etAmount1",
+    "androidType": "id",
+    "iosValue":"",
+    "iosType": ""
+  },
+
+  {
+    "key": "TransferTuru",
+    "androidValue": "//*[@text=\"Lütfen Seçiniz\"]",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+  },
+  {
+    "key": "TransferTuruSecimi",
+    "androidValue": "//*[@text='Aidat']",
+    "androidType": "xpath",
+    "iosValue":"",
+    "iosType": ""
+
+  },
+  {
+    "key": "DevamButonu",
+    "androidValue": "com.tmobtech.halkbank.alpha:id/fragmentWire_btnContinue",
+    "androidType": "id",
+    "iosValue":"",
+    "iosType": ""
+  },
+
+  {
+    "key": "OnaylaButonu",
+    "androidValue": "com.tmobtech.halkbank.alpha:id/fragmentTransactionConfirm_btnOk",
+    "androidType": "id",
+    "iosValue":"",
+    "iosType": ""
+  },
+  {
+    "key": "OnaylaButonu",
+    "androidValue": "com.tmobtech.halkbank.alpha:id/fragmentTransactionConfirm_btnOk",
+    "androidType": "id",
+    "iosValue":"",
+    "iosType": ""
+
+  },
+  {
+    "key": "Dekont",
+    "androidValue": "com.tmobtech.halkbank.alpha:id/transaction_success_header",
+    "androidType": "id",
+    "iosValue":"",
+    "iosType": ""
+
+
+  }
+
+]

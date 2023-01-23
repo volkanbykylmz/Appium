@@ -1,0 +1,134 @@
+# Pop-uplar kabul edilir
+* "OnlyThisTimeButonu" li elementi bul ve varsa tıkla
+* "AllowButonu" li elementi bul ve varsa tıkla
+* "TurkceButonu" li elementi bul ve varsa tıkla
+* "SecVeKesfetmeyeBaslaButonu" li elementi bul ve varsa tıkla
+* "XButonu" li elementi bul ve varsa tıkla
+
+
+# Alt barda gezdirme
+* "ATMdenParaCek/Yatir" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "KarekodOde/ParaGonder" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "FinansalAraclar" li elementi bul ve varsa tıkla
+* "DovizCevirici" li elementi bul ve varsa tıkla
+* "TurkLirasi" li elementi bul ve varsa tıkla
+* "NorvecNoku" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "FonTutariHesaplama" li elementi bul ve varsa tıkla
+* "FonTutariHesaplamaSatis" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "KrediHesaplama" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "AcikHesapFaizHesaplama" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "MevduatGetirisiHesaplama" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "PiyasaBilgileri" li elementi bul ve varsa tıkla
+* "DolarPiyasa" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "RepoGetirisi" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "VergiTakvimi" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+* "GeriButonu" li elementi bul ve varsa tıkla
+
+* "DigerIslemler" li elementi bul ve varsa tıkla
+* "GenelMudurluk" li elementi bul ve varsa tıkla
+* "3" saniye bekle
+
+
+
+
+
+# Doviz isleminde <text> TL'yi Dolar'a cevir
+* "SatilanTutar" li elementi bul ve varsa tıkla
+* "SatilanTutar" li elementi bul, temizle ve <text> değerini yaz
+
+
+# Doviz isleminde <text> Dolari TL'ye cevir
+* "TersCevirici" li elementi bul ve varsa tıkla
+* "SatilanTutar" li elementi bul ve varsa tıkla
+* "SatilanTutar" li elementi bul, temizle ve <text> değerini yaz
+
+
+
+
+# Musteri TC kimlik numarasi sahasina <text> musteri numarasi girilir
+* Elementine tıkla "MusteriNumarasiTiklama"
+* "3" saniye bekle
+* "MusteriNumarasi" li elementi bul, temizle ve <text> değerini yaz
+* "3" saniye bekle
+
+# Parola sahasina <text> parolasi yazilir ve login olunur
+* Elementine tıkla "ParolaTiklama"
+* "3" saniye bekle
+* "Parola" li elementi bul, temizle ve <text> değerini yaz
+* "5" saniye bekle
+* "GirisButonu" li elementi bul ve varsa tıkla
+
+# Sms ekranina <text> girilir
+* <text> textini "SmsButonu" elemente yaz
+* "3" saniye bekle
+
+# Menu Butonu Para Transferleri Yeni Transfer tiklanir
+* "MenuButonu" li elementi bul ve varsa tıkla
+* "ParaTransferleri" li elementi bul ve varsa tıkla
+* "YeniTransfer" li elementi bul ve varsa tıkla
+
+# Yeni Transfer IBAN ile EFT ekraninda Havale tabina tiklanir
+* "HavaleTabi" li elementi bul ve varsa tıkla
+
+# Alici sube tiklanir ve sube secimi yapilir ve Aramaya <text> yazilir
+* "AliciSube" li elementi bul ve varsa tıkla
+* "AliciSubeAramaButonu" li elementi bul ve varsa tıkla
+* <text> textini "AliciSubeAramaBari" elemente yaz
+* "SubeSecimi" li elementi bul ve varsa tıkla
+
+# Alici Hesap tiklanir ve <text> alici hesap bilgisi girilir
+* "AliciHesap" li elementi bul, temizle ve <text> değerini yaz
+* Klavyeyi kapat
+
+# Tutar sahasina tiklanir ve <text> tutar bilgisi girilir
+* "TutarSahasi" li elementi bul, temizle ve <text> değerini yaz
+* Klavyeyi kapat
+
+# Transfer turu tiklanir ve Transfer Turu secimi yapilir
+* "550","1800" coordinatından "550","1000" coordinatına "1" kere swipe et
+* "TransferTuru" li elementi bul ve varsa tıkla
+* "TransferTuruSecimi" li elementi bul ve varsa tıkla
+
+# Devam butonuna tiklanir ve Islem onay ekrani goruntulenir
+* "DevamButonu" li elementi bul ve varsa tıkla
+* "OnaylaButonu" li elementi bul ve varsa tıkla
+* "Dekont" elementinin görünürlüğü kontrol edilir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
